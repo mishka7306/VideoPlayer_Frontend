@@ -1,0 +1,6 @@
+*{                                  /*universal selctor il kodtu for ntlm margino padding o indel at remov cheyan */
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box; 
+    font-family: 'Roboto', sans-serif;     /*google font family*/  
+}
